@@ -1,0 +1,6 @@
+MACHINERY DASHBOARD
+ID   Name             Status         Usage   Shutdown
+------------------------------------------------------
+101  latte             Active          5        %No        
+
+Smart Tip: Shut down warning machines to prevent breakdown.

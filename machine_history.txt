@@ -1,0 +1,11 @@
+Machine ID: 101 - latte
+  2025-04-17 21:47:57 - Registered (Active)
+  2025-04-17 21:48:49 - Changed to Warning
+  2025-04-17 21:48:55 - Manually Shut Down
+  2025-04-17 21:50:35 - Repaired (Reset)
+
+Machine ID: 102 - mocha
+  2025-04-17 21:49:16 - Registered (Active)
+  2025-04-17 21:50:25 - Changed to Under Repair
+  2025-04-17 21:50:40 - Repaired (Reset)
+
